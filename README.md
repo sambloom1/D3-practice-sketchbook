@@ -12,7 +12,7 @@ A collection of random d3 visuals for practice rather than showcasing
 - **Improvement** - Cleaner way to code up the bar chart. Ended up making half the code and was very manual <br>
   - The x axis was squashed as didnt centralise the text elements. Could have added cicrcls to the line chart to highligh each games. <br>
   - The constants of medal and colour could have been a separate file, which would have contributed to cleaner code. <br>
-  - Text annotation of Olympic dates in the mini podium as could be confusing to what that relates to. Not Brazil or France medals but GB medals at these olympics. <br>
-  - Parametrising the flags of the mini podium. Would it be possible to have mini icons/images aved within csv which could be called on. Ultimatley leading to a an interactive/filtered graph that could return any countries medal chart as well as mini podium. 
+  - Could include text annotation of Olympic dates in the mini podium which helps distguish the podium flags being where it took place. Not Brazil or France medals but GB medals at these olympics. <br>
+  - Parametrising the flags of the mini podium. Would it be possible to have mini icons/images saved within csv which could be called on. Or I could create svg flags for the 7 Olympic game locations. Ultimatley leading to an interactive/filtered graph that could return any countries medal chart as well as mini podium. 
 
   
