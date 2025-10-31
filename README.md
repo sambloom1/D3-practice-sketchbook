@@ -4,7 +4,7 @@ A collection of random d3 visuals for practice rather than showcasing
 
 ## Olympics Line Chart
 
-<img width="1061" height="852" alt="image" src="https://github.com/user-attachments/assets/6726f8f1-2e80-4720-9b89-d576339a0c72" />
+<img width="801" height="652" alt="image" src="https://github.com/user-attachments/assets/6726f8f1-2e80-4720-9b89-d576339a0c72" />
 
 ### Reflections for v1 <br>
 - **Good** - concepts of combining story telling of two stories with the Title, annotations and Line wiht a mini bar graph. Having a grouped element for the mini podium meant I didnt have to go from innerChart origin.<br>
