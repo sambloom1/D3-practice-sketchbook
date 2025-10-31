@@ -9,6 +9,8 @@ A collection of random d3 visuals for practice rather than showcasing
 ### Reflections for v1 <br>
 - **Good** - concepts of combining story telling of two stories with the Title, annotations and Line wiht a mini bar graph. Having a grouped element for the mini podium meant I didnt have to go from innerChart origin.<br>
    - The for Each loop mean I could draw three lines with the paramter being the medals. <br>
+   - Creating the flags from scratch and parametrising the bar heights to help with the placement of them. <br>
+   
 - **Improvement** - Cleaner way to code up the bar chart. Ended up making half the code and was very manual <br>
   - The x axis was squashed as didnt centralise the text elements. Could have added cicrcls to the line chart to highligh each games. <br>
   - The constants of medal and colour could have been a separate file, which would have contributed to cleaner code. <br>
